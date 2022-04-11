@@ -1,0 +1,18 @@
+ [
+    {"id": 1, "nombre":"Diego Armando Maradona", "tipo": "Avenida"}, 
+    {"id": 2, "nombre":"Mexico 86", "tipo": "Avenida"}, 
+    {"id": 3, "nombre":"Dalma", "tipo": "Avenida"},
+    {"id": 4, "nombre":"Gianina", "tipo": "Avenida"}, 
+    {"id": 5, "nombre":"Segurola y Habana", "tipo": "Avenida"}, 
+    {"id": 6, "nombre":"Mano de Dios", "tipo": "Avenida"},
+    {"id": 7, "nombre":"La pelota no se mancha", "tipo": "Avenida"},
+    {"id": 8, "nombre":"LTA", "tipo": "Calle"},
+    {"id": 9, "nombre":"Me cortaron las piernas", "tipo": "Calle"} ,
+    {"id": 10, "nombre":"Se te escapo la tortuga", "tipo": "Calle"}, 
+    {"id": 11, "nombre":"Lastima a nadie", "tipo": "Calle"},
+    {"id": 12, "nombre":"Claudia", "tipo": "Calle"}, 
+    {"id": 13, "nombre":"Tota", "tipo": "Avenida"}, 
+    {"id": 14, "nombre":"Don Diego", "tipo": "Calle"}, 
+    {"id": 15, "nombre":"Futbol", "tipo": "Calle"},
+    {"id": 16, "nombre":"Argentina", "tipo": "Avenida"}
+    ] 
