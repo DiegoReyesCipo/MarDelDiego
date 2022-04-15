@@ -1,4 +1,8 @@
 
+* {
+	box-sizing: border-box;
+}
+
 .navbar-brand {	
 	color: rgb(22, 6, 6);
 	font-weight: bolder;
@@ -6,6 +10,54 @@
 	padding-left: 450px;
     text-align:	center;	
 }
+#selectAvenida{
+    background-color: #5bc0de;
+	border-radius: 5px;
+	color: whitesmoke;
+	font-weight: bold;
+	margin-left: 20px;
+	margin-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+    position: center;
+    }
+    #lblOpcion{
+        text-align: center;
+	color: rgb(80, 80, 80);
+	margin-top: 50px;
+    }
+    #resultado{
+        font: size 25px;
+        font-weight: bold;
+    }
+    #pedazito{
+        text-align:	left;
+        margin-bottom: 30px;
+    }
+
+    #selectCalle{
+        background-color: #5bc0de;
+        border-radius: 5px;
+        color: whitesmoke;
+        font-weight: bold;
+        margin-left: 20px;
+        margin-top: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+        position: center;
+        }
+    #search{
+        margin-right: 100px;
+        float: right;  
+    }
+   #theForm{
+    text-align:	right;
+
+   }
+   #app{
+    text-align:	left; 
+   }
+   
 
  body {
     background-image: url("images/Backgorund.jpg");
